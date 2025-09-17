@@ -1,0 +1,20 @@
+{
+  "name": "pw-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.13.10",
+    "ortoni-report": "^4.1.0-test.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.0.0"
+  }
+}
